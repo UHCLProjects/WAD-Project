@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Images/disney.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>disney</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>Entertainment</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/google.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Google</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>Entertainment</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/ms.jpg</ImageUrl>
+    <NavigateUrl>http://www.microsoft.com</NavigateUrl>
+    <AlternateText>Microsoft</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>Software</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/samsung.jpg</ImageUrl>
+    <NavigateUrl>http://www.samsung.com</NavigateUrl>
+    <AlternateText>Samsung</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>Mobiles</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/tripadvisor.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Trip Advisor</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>Mobiles</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/walmart.jpg</ImageUrl>
+    <NavigateUrl>http://www.walmart.com</NavigateUrl>
+    <AlternateText>Walmart</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>Shopping</Keyword>
+  </Ad>
+</Advertisements>

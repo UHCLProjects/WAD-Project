@@ -1,0 +1,81 @@
+﻿body {
+background-color:beige;
+font-family:'Segoe UI', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.centeralign {
+    margin:0 auto;
+    width:70%;
+}
+.pageTitle{
+    background-color:cadetblue;
+    color:white;
+    padding:2.5%;
+    font-size:40px;
+}
+.siteDescription
+{
+    background-color:aliceblue;
+    padding:2.5%;
+    color:green;
+}
+
+.formstyle {
+    background-color: aliceblue;
+}
+
+.eventDDL {
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.spnTitle {
+    display: inline-block;
+    width: 15%;
+    text-align: right;
+}
+
+.spnControls {
+    width: 30%;
+}
+
+.centerAlignDiv {
+    text-align: center;
+}
+.actualTicket
+{
+    width:50%;
+    float:left;
+    border-color:black;
+    border-width:2px;
+    border-style:dashed;
+    margin:3% 3% 3% 20%;
+    padding:1%
+}
+.ticketCount
+{
+    font-size:50px;
+    padding-top:5%;
+    color:red;
+}
+.important
+{
+    color:red;
+    font-size:0.8em;
+}
+.authorization
+{
+    font-size:0.8em;
+    font-style:italic;
+    display:inline-block;
+    color:blue;
+}
+.thankYou
+{
+    background-color:aliceblue;
+    padding-bottom:2%;
+}
+.eventDetails {
+    font-weight: bold;
+    font-size: 0.9em;
+    color: green;
+}

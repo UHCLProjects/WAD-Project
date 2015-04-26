@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIDBBhYduo0y+M0ZGXT0owwAAAAACAAAAAAADZgAAwAAAABAAAACF2XUlFHWv0e8hYmTCVtYdAAAAAASAAACgAAAAEAAAABwNHN1L5Um+ddbAkHLa0p0QAAAAYgm/ggppG5p7elXaRGR6jxQAAADb4bVFQEKDfcpbVbefmSQHHgsnYQ==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://dcm.uhcl.edu/c432014fa05gourishettys/pages</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/HoustonTktServicesAsp_Gourishetty.dll">
+      <publishTime>11/20/2014 18:48:49</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/20/2014 18:47:48</publishTime>
+    </File>
+    <File Include="events.xml">
+      <publishTime>10/25/2014 17:48:46</publishTime>
+    </File>
+    <File Include="ForgotPassword.aspx">
+      <publishTime>11/20/2014 18:27:06</publishTime>
+    </File>
+    <File Include="home.jpg">
+      <publishTime>10/25/2014 17:52:20</publishTime>
+    </File>
+    <File Include="main.css">
+      <publishTime>11/18/2014 18:48:50</publishTime>
+    </File>
+    <File Include="main.js">
+      <publishTime>11/20/2014 00:16:56</publishTime>
+    </File>
+    <File Include="PurchaseTickets.aspx">
+      <publishTime>11/20/2014 18:44:38</publishTime>
+    </File>
+    <File Include="RegistrationForm.aspx">
+      <publishTime>11/20/2014 18:27:06</publishTime>
+    </File>
+    <File Include="ShowPassword.aspx">
+      <publishTime>11/20/2014 18:41:27</publishTime>
+    </File>
+    <File Include="sports.xml">
+      <publishTime>10/25/2014 17:48:46</publishTime>
+    </File>
+    <File Include="ThankYou.aspx">
+      <publishTime>11/20/2014 18:46:33</publishTime>
+    </File>
+    <File Include="UserLogin.aspx">
+      <publishTime>11/20/2014 18:27:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/20/2014 18:36:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
